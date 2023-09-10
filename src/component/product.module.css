@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    flex-direction: row;
+}
+/* .card{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+
+} */
+#prod{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    margin: 1vh;
+
+}
